@@ -1,0 +1,3 @@
+".\Objects\TRIANGULAR.obj" 
+TO ".\Objects\sqre" 
+PRINT(".\Listings\sqre.m51") RAMSIZE(256) 

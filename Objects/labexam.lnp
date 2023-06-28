@@ -1,0 +1,3 @@
+".\Objects\labtriangle.obj" 
+TO ".\Objects\labexam" 
+PRINT(".\Listings\labexam.m51") RAMSIZE(256) 

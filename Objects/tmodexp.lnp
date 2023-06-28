@@ -1,0 +1,3 @@
+".\Objects\exptmod.obj" 
+TO ".\Objects\tmodexp" 
+PRINT(".\Listings\tmodexp.m51") RAMSIZE(256) 
